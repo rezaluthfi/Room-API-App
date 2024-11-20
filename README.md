@@ -1,6 +1,6 @@
 # 📱Room API App
 Room API App merupakan aplikasi yang berisi list karakter pada RickAndMorty API dengan fitur list favorite dan search. Oleh karena itu, pengguna dapat menambahkan
-karakter favoritnya, mencari data karakter, dan melihat kumpulan karakter favoritnya pada tampilan aplikasi.
+karakter ke dalam daftar favorit, mencari data karakter, dan melihat kumpulan karakter favoritnya pada tampilan aplikasi.
 
 # 🎞️Demo Room API App (Youtube)
 #### [🔗Click Here to Watching!](https://youtu.be/0O2xeHmPYd8)
